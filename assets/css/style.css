@@ -87,6 +87,11 @@
     padding: 10px;
 }
 
+textarea{
+    width:200px; 
+    height:200px;
+}
+
 .project-box{
     height: 150px;
     width: 150px;
